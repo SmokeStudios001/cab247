@@ -2,7 +2,7 @@
 // admin-panel/includes/sidebar.php
 
 // Include database configuration to get company name
-include 'db-config.php';
+include 'config.php';
 
 // Get company name from settings
 $company_name = "Taxi Booking System"; // Default value
